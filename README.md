@@ -33,7 +33,7 @@ I am a student who enjoys development, gaming, music, among other things. I have
 - 🔭 I’m currently working on a Tower Defense game to be published on Steam, more on that soon!  
   
 
-- 🌱 I’m currently learning Ethical Hacking.  
+- 🌱 I’m currently learning Artificial Intelligence development.  
 
 
 </td><td valign="top" width="50%">
