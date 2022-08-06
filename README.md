@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I am a student who enjoys development, gaming, music, among other things. I have a YouTube channel which I also upload regularly to. I hope to change the world someday for the better.  
+I am a student who enjoys development, gaming, and music among other things. I have a YouTube channel which I also upload regularly to at [https://youtube.com/astro648/](https://youtube.com/astro648/). I hope to change the world someday for the better.  
   
 
 <br/>  
@@ -91,6 +91,3 @@ I am a student who enjoys development, gaming, music, among other things. I have
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
