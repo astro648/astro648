@@ -30,7 +30,7 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a Tower Defense game to be published on Steam, more on that soon!  
+- 🔭 I’m currently working on learning Python, my Tower Defense Game will continue development soon!
   
 
 - 🌱 I’m currently learning Python.  
