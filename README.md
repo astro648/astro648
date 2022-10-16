@@ -18,8 +18,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I am a student who enjoys development, gaming, and music among other things. I have a YouTube channel which I also upload regularly to at [https://youtube.com/astro648/](https://youtube.com/astro648/). I hope to change the world someday for the better.  
   
@@ -47,18 +45,22 @@ I am a student who enjoys development, gaming, and music among other things. I h
 </td></tr></table>  
 
 
+## Widgets
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro648&label=Profile%20views&color=0e75b6&style=flat" alt="astro648" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astro648" alt="astro648" /></a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astro648&show_icons=true&locale=en" alt="astro648" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astro648&" alt="astro648" /></p>
 
+
 <br/>  
-
-
   
 
 <br/>  
@@ -69,4 +71,4 @@ I am a student who enjoys development, gaming, and music among other things. I h
 <br/>  
 
 
-<br />
+<br/>
