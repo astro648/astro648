@@ -50,10 +50,9 @@ I am a student who enjoys development, gaming, and music among other things. I h
 [![trophy](https://github-profile-trophy.vercel.app/?username=astro648&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[![Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro648&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astro648&show_icons=true&locale=en" alt="astro648" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astro648&" alt="astro648" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astro648&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>  
 
