@@ -51,7 +51,7 @@ I am a student who enjoys development, gaming, and music among other things. I h
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro648&label=Profile%20views&color=0e75b6&style=flat" alt="astro648" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astro648" alt="astro648" /></a> </p>
 
 
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
