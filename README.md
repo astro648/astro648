@@ -52,14 +52,10 @@ I am a student who enjoys development, gaming, and music among other things. I h
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astro648" alt="astro648" /></a> </p>
 
 
-<<<<<<< HEAD
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-=======
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astro648&show_icons=true&locale=en" alt="astro648" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astro648&" alt="astro648" /></p>
->>>>>>> parent of bff68e1 (formatting update)
 
 <br/>  
 
