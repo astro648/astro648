@@ -63,8 +63,6 @@ I am a student who enjoys development, gaming, and music among other things. I h
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=astro648&&style=flat-square)  
   
 
 <br/>  
