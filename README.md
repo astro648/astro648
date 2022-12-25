@@ -30,10 +30,10 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on learning Python, my Tower Defense Game will continue development soon!
+- 🔭 I’m currently working on a [Tower Defense Game called Polygon Defense](https://github.com/astro648/Polygon-Defense)!
   
 
-- 🌱 I’m currently learning Python.  
+- 🌱 I’m currently learning [artificial intelligence and scientific computing](https://github.com/astro648/My-AI).  
 
 
 </td><td valign="top" width="50%">
