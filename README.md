@@ -30,10 +30,10 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Tower Defense Game called Polygon Defense](https://github.com/astro648/Polygon-Defense)!
+- 🔭 I’m currently working on a [voice assistant powered by IBM Jarvis](https://github.com/astro648/Polygon-Defense)!
   
 
-- 🌱 I’m currently learning [artificial intelligence and scientific computing](https://github.com/astro648/My-AI).  
+- 🌱 I’m currently learning [Unity game development](https://github.com/astro648/Basic-Unity-Projects).  
 
 
 </td><td valign="top" width="50%">
