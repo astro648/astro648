@@ -33,7 +33,7 @@ I am a student who enjoys development, gaming, and music among other things. I h
 - 🔭 I’m currently working on a [voice assistant powered by IBM Jarvis](https://github.com/astro648/Polygon-Defense)!
   
 
-- 🌱 I’m currently learning [Unity game development](https://github.com/astro648/Basic-Unity-Projects).  
+- 🌱 I’m currently learning [Unity game development](https://github.com/astro648/Unity-Junior-Programmer-Projects).  
 
 
 </td><td valign="top" width="50%">
