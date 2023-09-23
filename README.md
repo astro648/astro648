@@ -30,10 +30,10 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [text-to-speech chatbot powered by Python](https://github.com/astro648/Polygon-Defense)!
+- 🔭 My previous project was [a voice assistant powered by Python](https://github.com/astro648/Jarvis-Python-Voice-Assistant)!
   
 
-- 🌱 I’m currently learning [Unity game development](https://github.com/astro648/Unity-Junior-Programmer-Projects).  
+- 🌱 I’m currently learning [Arduino](https://github.com/astro648/Arduino-Programming).  
 
 
 </td><td valign="top" width="50%">
