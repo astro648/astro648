@@ -38,19 +38,13 @@ I am a student who enjoys development, gaming, and music among other things. I h
 
 </td><td valign="top" width="50%">
 
-- ❓Ask me anything related to space!  
+- 📽️ Check out [my YouTube channel](youtube.com/astro648) or [my other socials](https://linktr.ee/astro648)!
   
 
-- 🚀Fun Fact: during the stacked configuration, the SpaceX Starship has 39 Raptor engines!  
+- 🚀 Fun Fact: during the stacked configuration, the SpaceX Starship has 39 Raptor engines!  
 
 
 </td></tr></table>  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=astro648&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro648&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
