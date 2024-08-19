@@ -30,10 +30,10 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 My previous project was [a word guessing game in Python!]([https://github.com/astro648/Jarvis-Python-Voice-Assistant](https://github.com/astro648/Python-Word-Game))!
+- 🔭 My previous project was [a word guessing game in Python](https://github.com/astro648/Python-Word-Game)!
   
 
-- 🌱 I’m currently learning [Arduino](https://github.com/astro648/Arduino-Programming).  
+- 🌱 I’m currently learning [Arduino](https://github.com/astro648/Arduino-Projects).  
 
 
 </td><td valign="top" width="50%">
