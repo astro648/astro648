@@ -52,8 +52,6 @@ I am a student who enjoys development, gaming, and music among other things. I h
 
 [![Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro648&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astro648&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <br/>  
 
 
