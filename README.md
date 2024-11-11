@@ -26,7 +26,7 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 My previous project was [a word guessing game in Python](https://github.com/astro648/Python-Word-Game)!
+- 🔭 My current project is [a DIY Raspberry Pi Anki reviewer device](https://github.com/astro648/Raspberry-Pi-Anki-Reviewer)!
   
 
 - 🌱 I’m currently learning [Arduino](https://github.com/astro648/Arduino-Projects).  
@@ -41,16 +41,3 @@ I am a student who enjoys development, gaming, and music among other things. I h
 
 
 </td></tr></table>  
-
-<br/>  
-
-
-  
-
-<br/>  
-  
-
-<br/>  
-
-
-<br />
