@@ -26,7 +26,7 @@ I am a student who enjoys development, gaming, and music among other things. I h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 My current project is [a DIY Raspberry Pi Anki reviewer device](https://github.com/astro648/Raspberry-Pi-Anki-Reviewer)!
+- 🔭 My current project is [the OpenAI to Z AI archaeology challenge](https://github.com/astro648/OpenAI-to-Z)!
   
 
 - 🌱 I’m currently learning [Arduino](https://github.com/astro648/Arduino-Projects).  
